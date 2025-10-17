@@ -1,9 +1,9 @@
-# PythonC-API
+## PythonC-API
 --- 
 
 > Boilerplate for [CI action](https://github.com/janiejestemja/py_sort)
 
-## Building the cpp module
+### Building the cpp module
 ---
 
 To build the module:
